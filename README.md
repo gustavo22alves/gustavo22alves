@@ -6,7 +6,7 @@ Atualmente estou focado no aprendizado na linguagem Python e MySQL e aqui encont
 
 - O meu interesse é trabalhar na Área de Dados e posteriormente em Inteligência Artificial.
 - E para alcançar este objetivo tenho feito cursos relacionados ao assunto, em plataformas de ensino como a DIO, Udemy e Coursera.
-: - Procuro ser o mais colaborativo possível, apesar de não ter muito experiência na área a minha vontade em aprender faz com que também eu seja participativo na comunidade na qual tenho me dedicado, assim ajundando outros desenvolvedores que estão entrando no mercado.
+- Procuro ser o mais colaborativo possível, apesar de não ter muito experiência na área a minha vontade em aprender faz com que também eu seja participativo na comunidade na qual tenho me dedicado, assim ajundando outros desenvolvedores que estão entrando no mercado.
 
 ### Você pode estar  me conhecendo e entrando em contato comigo pelas minhas redes sociais:
 
